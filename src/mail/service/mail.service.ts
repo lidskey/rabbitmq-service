@@ -21,7 +21,7 @@ export class MailService  {
   async sendMail(/* to: string, subject: string, text: string */) {
     const mailOptions = {
       from: 'lloyd0@ethereal.email',
-      to: 'tayluanjesus0298@gmail.com',
+      to: '',
       subject: 'Abacate',
       text: 'DLKFJSKFJLSFLDSJFL',
     };
